@@ -7,6 +7,7 @@ the group members:
 - Dana Alghofaily
 - Kady Aldughaim
 
+### Task description 
 
 This project demonstrates how to get http request from already existing link 
 "https://s-m.com.sa/b.html" ,
@@ -21,6 +22,7 @@ this is the code we used :
 ![Screenshot 2024-07-14 004347](https://github.com/user-attachments/assets/5a5c51df-6d80-45e5-b062-1829a5170226)
 
 
+### The output 
 We used in the example below 
 direction backward as in this link 
 https://s-m.com.sa/b.html
